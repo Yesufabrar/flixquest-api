@@ -5,8 +5,8 @@ export const tmdbBaseUrl = "https://api.themoviedb.org";
 export const tmdbKey = process.env.TMDB_KEY;
 export const daddyliveReferrer = "https://lewblivehdplay.ru/";
 export const daddyliveUserAgent =
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36";
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1";
 export const daddyliveStreamBaseUrl =
-    "https://webhdrunns.onlinehdhls.ru/lb/premium";
+    "https://webhdrunns.mizhls.ru/lb/premium";
 export const daddyliveTrailingUrl = `/index.m3u8?|referer=${daddyliveReferrer}`;
 export const daddylive247Url = "https://dlhd.so/24-7-channels.php";
