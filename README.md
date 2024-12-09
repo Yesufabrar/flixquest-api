@@ -63,7 +63,7 @@ Get streaming link and subtitles for the movie 'The Hangover 1' from the 'FlixHQ
 Get streaming link and subtitles for the TV show 'The Office' from the 'FlixHQ' provider
 
 ```http
-  GET /flixhq/watch-tv?tmdbId=2316&season=1&episode=1
+  GET /flixhq/watch-tv?tmdbId=2316&season=1&episodeGET /flixhq/watch-tv?tmdbId=2316&season=1&episode=1
 ```
 
 ## Installation
